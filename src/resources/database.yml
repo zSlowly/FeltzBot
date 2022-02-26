@@ -1,0 +1,9 @@
+'825422304476659753':
+  tempo: 2
+  agora: 1640616676944
+MySQL:
+  IP: localhost
+  Porta: 3306
+  Usuario: root
+  Senha: ''
+  DataBase: permissoes
